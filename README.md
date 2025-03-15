@@ -1,0 +1,1 @@
+1.I developed an AI assistant using Python that leverages natural language processing to understand and respond to user queries. This project showcases my skills in machine learning and programming, enabling users to interact with the assistant for various tasks, such as answering questions, providing recommendations, and automating simple processes.
